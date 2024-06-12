@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrés García</h1>
 <h3 align="center">A passionate frontend developer from Mexico, I am a Systems Engineer and I have been involved in mobile devices for the last 2 years creating applications for Android and iOS with Flutter, where I have expanded my knowledge in UI/UX, state managers and architectures such as Clean and VIPER.</h3>
 
-- 🔭 I’m currently working on **IBT**
+- 🌱 I’m currently learning **Node.js, React.js, TypeScript**
 
-- 🌱 I’m currently learning **Vue.js, React.js, JavaScript**
-
-- 👯 I’m looking to collaborate on **Flutter Project**
+- 👯 I’m looking to collaborate on **Flutter Project, Laravel and React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
